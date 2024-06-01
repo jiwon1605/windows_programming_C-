@@ -1,0 +1,14 @@
+D:\2023-2\c#\HomeWork\Vector\bin\Debug\net7.0\Vector.exe
+D:\2023-2\c#\HomeWork\Vector\bin\Debug\net7.0\Vector.deps.json
+D:\2023-2\c#\HomeWork\Vector\bin\Debug\net7.0\Vector.runtimeconfig.json
+D:\2023-2\c#\HomeWork\Vector\bin\Debug\net7.0\Vector.dll
+D:\2023-2\c#\HomeWork\Vector\bin\Debug\net7.0\Vector.pdb
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.AssemblyInfoInputs.cache
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.AssemblyInfo.cs
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.csproj.CoreCompileInputs.cache
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.dll
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\refint\Vector.dll
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.pdb
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\Vector.genruntimeconfig.cache
+D:\2023-2\c#\HomeWork\Vector\obj\Debug\net7.0\ref\Vector.dll

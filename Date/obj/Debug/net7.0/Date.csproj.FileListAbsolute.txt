@@ -1,0 +1,14 @@
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.AssemblyInfoInputs.cache
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.AssemblyInfo.cs
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.csproj.CoreCompileInputs.cache
+D:\2023-2\c#\HomeWork\Date\bin\Debug\net7.0\Date.exe
+D:\2023-2\c#\HomeWork\Date\bin\Debug\net7.0\Date.deps.json
+D:\2023-2\c#\HomeWork\Date\bin\Debug\net7.0\Date.runtimeconfig.json
+D:\2023-2\c#\HomeWork\Date\bin\Debug\net7.0\Date.dll
+D:\2023-2\c#\HomeWork\Date\bin\Debug\net7.0\Date.pdb
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.dll
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\refint\Date.dll
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.pdb
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\Date.genruntimeconfig.cache
+D:\2023-2\c#\HomeWork\Date\obj\Debug\net7.0\ref\Date.dll

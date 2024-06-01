@@ -1,0 +1,14 @@
+D:\2023-2\c#\HomeWork\Complex\bin\Debug\net7.0\Complex.exe
+D:\2023-2\c#\HomeWork\Complex\bin\Debug\net7.0\Complex.deps.json
+D:\2023-2\c#\HomeWork\Complex\bin\Debug\net7.0\Complex.runtimeconfig.json
+D:\2023-2\c#\HomeWork\Complex\bin\Debug\net7.0\Complex.dll
+D:\2023-2\c#\HomeWork\Complex\bin\Debug\net7.0\Complex.pdb
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.AssemblyInfoInputs.cache
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.AssemblyInfo.cs
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.csproj.CoreCompileInputs.cache
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.dll
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\refint\Complex.dll
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.pdb
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\Complex.genruntimeconfig.cache
+D:\2023-2\c#\HomeWork\Complex\obj\Debug\net7.0\ref\Complex.dll
