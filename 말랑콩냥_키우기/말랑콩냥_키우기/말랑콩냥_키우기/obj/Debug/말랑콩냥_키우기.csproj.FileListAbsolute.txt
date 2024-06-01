@@ -1,0 +1,12 @@
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\bin\Debug\말랑콩냥_키우기.exe.config
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\bin\Debug\말랑콩냥_키우기.exe
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\bin\Debug\말랑콩냥_키우기.pdb
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.csproj.AssemblyReference.cache
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.Form1.resources
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.Properties.Resources.resources
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.csproj.GenerateResource.cache
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.csproj.CoreCompileInputs.cache
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.exe
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.pdb
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.Form2.resources
+C:\Users\forwo\source\repos\말랑콩냥_키우기\말랑콩냥_키우기\obj\Debug\말랑콩냥_키우기.shop.resources
